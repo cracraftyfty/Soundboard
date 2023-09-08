@@ -41,6 +41,8 @@ button:hover {
 
 .seven {
 }
+.r {
+}
 
 .set {
   margin: 10% auto;
@@ -76,4 +78,9 @@ button:hover {
   text-align: center;
   margin: 10px;
   background-color: rgb(102, 101, 101);
+}
+
+.random {
+  display: inline-block;
+  width: 30rem;
 }
